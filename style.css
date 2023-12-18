@@ -1,0 +1,282 @@
+/* body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #inputField {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #keyboard {
+    display: grid;
+    grid-template-columns: repeat(10, 40px);
+    gap: 5px;
+  }
+  
+  .key {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    background-color: #eee;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .caps-lock {
+    background-color: #eee;
+  }
+   */
+
+
+   /* 3------------ */
+
+   /* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.list-container {
+    text-align: center;
+}
+
+.horizontal-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.horizontal-list li {
+    margin: 0 10px;
+} */
+
+/* Стиль для выделения текущего дня */
+/* .current-day {
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 50%;
+    padding: 5px 10px;
+} */
+
+/* 5--------- */
+
+/* * {
+    box-sizing: border-box;
+  }
+  #parent {
+    margin: 0 auto;
+    width: 600px;
+  }
+  #input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  #table {
+    width: 100%;
+  }
+  #table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+  } */
+  
+  /* 7------------------- */
+
+  /* #parent {
+    text-align: center;
+}
+
+#parent > * {
+    margin-bottom: 10px;
+}
+
+#timer {
+    font-size: 18px;
+}
+
+#text {
+    font-size: 17px;
+    font-style: italic;
+    color: black; 
+}
+
+
+#text.good {
+    color: green;
+}
+
+
+#text.bad {
+    color: red;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+button:not(.active) {
+    display: none;
+} */
+
+/* 3.1------------------------ */
+
+/* body {
+  text-align: center;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+#input {
+  margin-bottom: 10px;
+}
+
+#list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+}
+
+.task-text {
+  flex-grow: 1;
+  cursor: pointer;
+}
+
+.task-actions {
+  margin-left: 10px;
+  cursor: pointer;
+} */
+
+
+/* 4.2------------------------ */
+
+/* * {
+  box-sizing: border-box;
+}
+#parent {
+  margin: 0 auto;
+  width: 500px;
+}
+
+#form {
+  display: flex;
+  margin-bottom: 15px;
+}
+#form input {
+  padding: 8px;
+  width: 24%;
+  margin: 0 0.5% 10px 0.5%;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 7px;
+}
+
+#table {
+  width: 100%;
+  margin-bottom: 10px;
+}
+#table td, #table th {
+  padding: 8px;
+  text-align: center;
+  border: 1px solid black;
+}
+#table td.remove {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+#table td.remove:hover {
+  text-decoration: none;
+}
+
+#result {
+  text-align: right;
+  margin-right: 10px;
+} */
+
+
+/* 5.3----------------------- */
+
+/* .correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+} */
+
+/* 5.4--------------------- */
+
+
+/* 6.1----------------------------- */
+
+/* #field td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+} */
+
+/* 6.2----------------------------------- */
+
+/* table {
+  border-collapse: collapse;
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000;
+  text-align: center;
+  cursor: pointer;
+} */
+
+/* 6.3----------------------------------- */
+
+/* #field {
+  border-collapse: collapse;
+}
+
+#field td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #000;
+  text-align: center;
+  font-size: 24px;
+  cursor: pointer;
+} */
+
+/* 6.4----------------------------------- */
